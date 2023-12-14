@@ -1,0 +1,63 @@
+.label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.container_auth {
+    font-size: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top: 15%;
+}
+
+.container_form {
+    font-size: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+    font-size: 50px;
+}
+
+input, textarea, select {
+    font-size: inherit;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn {
+    text-decoration: none;
+    display: inline;
+    border: none;
+    background-color: rgb(0, 30, 255);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.img {
+    background-image: url(images/авторизация.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+}
+
+footer {
+    background-image: url(images/авторизация.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
